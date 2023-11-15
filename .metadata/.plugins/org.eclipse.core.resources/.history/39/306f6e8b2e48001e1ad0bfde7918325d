@@ -1,0 +1,14 @@
+package work.stream.java;
+
+public class Example {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//new Samosa();
+		Samosa samosa = Samosa.getSamosa();
+		System.out.println(samosa.hashCode());
+		
+
+	}
+
+}

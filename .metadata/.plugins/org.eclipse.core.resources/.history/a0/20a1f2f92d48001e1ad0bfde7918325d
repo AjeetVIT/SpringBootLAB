@@ -1,0 +1,16 @@
+package work.stream.java;
+
+public class Samosa {
+	private static Samosa samosa;
+	//constructor will invoke when object is created
+	private Samosa() {
+		
+	}
+	public static Samosa getSamosa() {
+//object of this class
+		if(samosa==null) {
+			Samosa s = new Samosa();
+		}
+		//Samosa samosa = new Samosa();
+		return samosa;
+}}

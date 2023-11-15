@@ -1,0 +1,15 @@
+package work.stream.java;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Number> items = Arrays.asList(2000,3000,4000,5000,6000.9000);
+System.out.println(items.stream().sorted((x,y)-> y-x).findFirst());
+	
+	}
+
+}

@@ -1,0 +1,21 @@
+package work.stream.java;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class SecondLargestSalary {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Employee>list=new ArrayList<>();
+		list.add(new Employee(1,"Aman",2000.0));
+		list.add(new Employee(2,"Amit",3000.0));
+		list.add(new Employee(1,"Sanjay",5000.0));
+		list.add(new Employee(1,"Mahesh",4000.0));
+		list.add(new Employee(1,"Sunny",6000.0));
+		list.add(new Employee(1,"Dhiraj",9000.0));
+		
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package work.stream.java;
+
+public class Example {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//new Samosa();
+		Samosa samosa = Samosa.getSamosa();
+		System.out.println(samosa.hashCode());
+		Samosa samosa2 = Samosa.getSamosa();
+		System.out.println(samosa2.hashCode());
+		Samosa samosa3 = Samosa.getSamosa();
+		System.out.println(samosa3.hashCode());
+		Samosa samosa4 = Samosa.getSamosa();
+		System.out.println(samosa4.hashCode());
+		Jalebi jalebi = Jalebi.getJalebi();
+		System.out.println(jalebi.hashCode());
+		Jalebi jalebi1 = Jalebi.getJalebi();
+		System.out.println(jalebi1.hashCode());
+		
+
+	}
+
+}

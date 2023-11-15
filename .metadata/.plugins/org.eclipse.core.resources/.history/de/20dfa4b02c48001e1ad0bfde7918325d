@@ -1,0 +1,9 @@
+package work.stream.java;
+
+public class Samosa {
+	//constructor will invoke when object is created
+	public Samosa() {
+		
+	}
+
+}

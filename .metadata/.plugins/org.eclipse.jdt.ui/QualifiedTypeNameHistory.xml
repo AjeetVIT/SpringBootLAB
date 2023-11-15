@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.nt.comps.CarTyres"/>
+    <fullyQualifiedTypeName name="com.nt.comps.Car"/>
+    <fullyQualifiedTypeName name="javax.swing.text.BadLocationException"/>
+    <fullyQualifiedTypeName name="com.nt.comps.BelenoCar"/>
+    <fullyQualifiedTypeName name="com.nt.comps.SwiftCar"/>
+    <fullyQualifiedTypeName name="com.nt.comps.EritigaCar"/>
+    <fullyQualifiedTypeName name="com.nt.factory.CarFactory"/>
+    <fullyQualifiedTypeName name="in.wipro.ajeet.repo.ProductRepository"/>
+    <fullyQualifiedTypeName name="com.nt.comps.BajajBike"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.ClassSpecializer.Factory"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BajajChennaiFactory"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BajajNoidaFactory"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BajajBikeFactory"/>
+    <fullyQualifiedTypeName name="com.nt.factory.BajajbikeFactoryLocator"/>
+    <fullyQualifiedTypeName name="com.nt.dao.DBStudentDAO"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="com.nt.factory.ExcelDAOFactory"/>
+    <fullyQualifiedTypeName name="com.nt.dao.DbCourseDao"/>
+    <fullyQualifiedTypeName name="com.nt.dao.ExcelStudentDao"/>
+    <fullyQualifiedTypeName name="com.nt.dao.ExcelCourseDAO"/>
+    <fullyQualifiedTypeName name="in.wipro.ajeet.model.Product"/>
+    <fullyQualifiedTypeName name="in.wipro.ajeet.repo.ProductRepository.MyView"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="in.wipro.ajeet.model.Employee"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="in.wipro.ajeet.repo.EmployeeRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="work.stream.java.Samosa"/>
+</qualifiedTypeNameHistroy>

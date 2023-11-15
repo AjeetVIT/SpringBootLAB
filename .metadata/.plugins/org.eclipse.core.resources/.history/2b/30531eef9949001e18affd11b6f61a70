@@ -1,0 +1,27 @@
+package work.stream.java;
+
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+
+public class Example {
+
+	public static void main(String[] args) throws NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
+		// TODO Auto-generated method stub
+		//new Samosa();
+		/*
+		 * Samosa samosa = Samosa.getSamosa(); System.out.println(samosa.hashCode());
+		 * Samosa samosa2 = Samosa.getSamosa(); System.out.println(samosa2.hashCode());
+		 * Samosa samosa3 = Samosa.getSamosa(); System.out.println(samosa3.hashCode());
+		 * Samosa samosa4 = Samosa.getSamosa(); System.out.println(samosa4.hashCode());
+		 * Jalebi jalebi = Jalebi.getJalebi(); System.out.println(jalebi.hashCode());
+		 * Jalebi jalebi1 = Jalebi.getJalebi(); System.out.println(jalebi1.hashCode());
+		 */
+
+		Samosa s1 = Samosa.getSamosa();
+		System.out.println(s1.hashCode());
+		Constructor<Samosa> constructor = Samosa.class.getDeclaredConstructor();
+	Samosa s2 = constructor.newInstance();
+	System.out.println(s2.hashCode());
+	}
+
+}
